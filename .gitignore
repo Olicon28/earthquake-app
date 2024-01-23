@@ -1,0 +1,42 @@
+# macOS
+.DS_Store
+
+# Xcode
+*.swp
+*~.nib
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
+
+# Swift Package Manager
+.build/
+
+# CocoaPods
+Pods/
+Podfile.lock
+DerivedData/
+.vscode/
+.idea/
+
+# Carthage
+Carthage/Checkouts
+Carthage/Build
+
+# Compiled Source
+*.r
+
+# Compiled Framework
+*.framework/
+
+# Generated Xcode files
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM/
+
+# Caches, logs, and localizable content
+*.xcresult/
+build/
+
+# Code Coverage
+*.xcresult/
